@@ -20,9 +20,10 @@ module.exports = {
       },
     ],
   },
+  plugins: [new HtmlWebpackPlugin({ template: './src/index.html' })],
   devServer: {
     port: 5050,
     open: true,
   },
-  stats: 'errors-only',
+  // stats: 'errors-only',
 };
