@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/VadymChutur/15-GET-POST/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/VadymChutur/15-GET-POST#readme",
   "description": "",
   "devDependencies": {
     "webpack": "^5.93.0",
