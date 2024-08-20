@@ -24,6 +24,7 @@ module.exports = {
   devServer: {
     port: 5050,
     open: true,
+    liveReload: true,
   },
   // stats: 'errors-only',
 };
