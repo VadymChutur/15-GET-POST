@@ -8,11 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git"
+    "url": "git+https://github.com/VadymChutur/15-GET-POST"
   },
   "keywords": [],
-  "author": "",
+  "author": "falloutgreck",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadymChutur/15-GET-POST/issues"
+  },
+  "homepage": "",
   "description": "",
   "devDependencies": {
     "webpack": "^5.93.0",
